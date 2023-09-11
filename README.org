@@ -3,18 +3,18 @@
   - 👀 I’m interested in data science and analysis~
   - 📫 How to reach me: [[mailto@shiori.k.pro@gmail.com][email to me]]
 * Interested fields
-  ** Computer
-    - GNU/Linux operation system
-    - Emacs and Vim
-    - Machine learning and deep learning
-    - Data science
-  ** Science
-    - Mathematics
-    - Mathematical statistics
-  ** Others
-    - ACG
-    - J-pop
-    - English calligraphy
-    - Philosophy
+** Computer
+  - GNU/Linux operation system
+  - Emacs and Vim
+  - Machine learning and deep learning
+  - Data science
+** Science
+  - Mathematics
+  - Mathematical statistics
+** Others
+  - ACG
+  - J-pop
+  - English calligraphy
+  - Philosophy
 * Skills
   
