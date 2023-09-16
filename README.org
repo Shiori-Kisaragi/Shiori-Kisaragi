@@ -1,20 +1,47 @@
-* Personal information
-  - 👋 Hi, I’m @Shiori-Kisaragi and I'm a senior college student now!
-  - 👀 I’m interested in data science and analysis~
-  - 📫 How to reach me: [[mailto@shiori.k.pro@gmail.com][email to me]]
-* Interested fields
-** Computer
-  - GNU/Linux operation system
-  - Emacs and Vim
-  - Machine learning and deep learning
-  - Data science
-** Science
-  - Mathematics
-  - Mathematical statistics
-** Others
-  - ACG
-  - J-pop
-  - English calligraphy
-  - Philosophy
+* Personal Information
+- 👋 Hi, I’m @Shiori-Kisaragi and I'm a senior 🏫college student now!
+- 👀 I’m interested in data science and analysis~
+- 📫 How to reach me: shiori.k.pro@gmail.com
+* Interested Fields
+** Computer Fields
+- GNU/Linux operation system
+- Emacs and Vim
+- Machine learning and deep learning
+- Data science
+** Science Fields
+- Mathematics
+- Statistics
+** Other Fields
+- ACG
+- English calligraphy
+- Philosophy
 * Skills
-  
+** Computer Skills
+*** Python
+- Numpy :: not bad
+- Pandas :: great
+- Matplotlib :: great
+- Sklearn :: not bad
+- Pytorch :: learning
+*** R
+I am a newbie, now.
+*** SQL
+- DDL :: great
+- DML :: great
+- DQL :: great
+- DCL :: learning
+*** Java
+I can write OOP code.
+** Science Skills
+*** Mathematics Skills
+- Calculus :: great
+- Linear algebra :: great
+- Differential equations :: passed
+- Real analysis :: great
+- Complex analysis :: not bad
+- Functional analysis :: great
+- Topology :: learning
+*** Statistics Skills
+- Probability theory :: great
+- Mathematical Statistics :: great
+- Applied regression analysis :: not bad
